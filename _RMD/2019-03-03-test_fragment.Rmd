@@ -1,6 +1,6 @@
 ---
 title: "Test fragment"
-output: html_document
+output: html_fragment
 ---
 
 Testing intro text
