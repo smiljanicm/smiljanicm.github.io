@@ -1,9 +1,9 @@
 ---
 title: "Test fragment"
-author: "Marko Smiljanic"
-date: "June 11, 2019"
-output: html_fragment
+output: html_document
 ---
+
+Testing intro text
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
