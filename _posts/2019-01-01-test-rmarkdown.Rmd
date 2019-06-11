@@ -2,7 +2,7 @@
 title: "test-rmarkdown"
 author: "Marko Smiljanic"
 date: "June 11, 2019"
-output: md_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
