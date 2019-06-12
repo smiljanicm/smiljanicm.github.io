@@ -24,6 +24,6 @@ Including Plots
 
 You can also embed plots, for example:
 
-![](https://smiljanicm.github.io/img/2019-03-04-test_md_github_files/figure-markdown_github/pressure-1.png)
+![](img/2019-03-04-test_md_github_files/figure-markdown_github/pressure-1.png)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
