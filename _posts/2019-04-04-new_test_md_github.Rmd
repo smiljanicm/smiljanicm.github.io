@@ -1,9 +1,11 @@
 ---
-title: "Test fragment"
-output: html_fragment
+title: "2019-04-04-new_test"
+author: "Marko Smiljanic"
+date: "August 10, 2019"
+output: 
+  md_document:
+    variant: markdown_github
 ---
-
-Testing intro text
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
