@@ -4,6 +4,10 @@ _site
 .vagrant
 smiljanicm.github.io.Rproj
 
+# RMD
+_posts/*.Rmd
+_posts/*.RMD
+
 # general
 .DS_Store
 Thumbs.db
