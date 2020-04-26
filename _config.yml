@@ -200,7 +200,7 @@ exclude:
 # prose.io config
 prose:
   rooturl: '_posts'
-  media: 'img'
+  media: '_posts'
   ignore:
     - 404.html
     - LICENSE
